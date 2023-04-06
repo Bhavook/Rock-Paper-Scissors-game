@@ -1,5 +1,3 @@
-# Rock paper scissors game
-
 import random
 while True:
     choices = ["rock","paper","scissors"]
